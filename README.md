@@ -8,6 +8,7 @@
 ## 2) 
 
 ## 3) 
+- O Spring implementa algumas ideias da Clean Architecture como a divisão por camadas (como models, controllers e repository) e divisão por feature (como postagem e usuário e seus recursos associados - model e controller).
 
 ## 4) 
 
